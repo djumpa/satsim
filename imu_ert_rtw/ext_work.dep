@@ -1,0 +1,29 @@
+ext_work.o: \
+ D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_work.c \
+ C:/Users/Filip/Documents/MATLAB/Arduino/imu/imu_ert_rtw/rtwtypes.h \
+ D:/Programs/MATLAB/R2018b/simulink/include/rtw_extmode.h \
+ D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_types.h \
+ D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_share.h \
+ D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/updown.h \
+ D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/upsup_public.h \
+ D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_svr.h \
+ D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_work.h
+
+C:/Users/Filip/Documents/MATLAB/Arduino/imu/imu_ert_rtw/rtwtypes.h:
+
+D:/Programs/MATLAB/R2018b/simulink/include/rtw_extmode.h:
+
+D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_types.h:
+
+D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_share.h:
+
+D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/updown.h:
+
+D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/upsup_public.h:
+
+D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_svr.h:
+
+D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+D:/Programs/MATLAB/R2018b/rtw/c/src/ext_mode/common/ext_work.h:
